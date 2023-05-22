@@ -1,2 +1,6 @@
-# este es un preideo de prueba para repositorios
+# este es un periodo de prueba para repositorios
+estoy aprendiendo
+en la mucha lucha 
+practicando 
+
 

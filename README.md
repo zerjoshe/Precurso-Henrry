@@ -1,2 +1,2 @@
-# Precurso-Henrry
-Repositorio curso Henrry  Jose Zerpa
+# este es un preideo de prueba para repositorios
+
